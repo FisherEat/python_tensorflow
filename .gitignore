@@ -1,0 +1,12 @@
+#log
+/log/
+/log/*
+/logfile/
+
+# MNIST_data
+MNIST_data/
+MNIST_data/*
+
+
+
+ 
